@@ -1,3 +1,4 @@
+import drawable
 type TerrainEnum {.pure.}= enum
     Rubble      = 1 shl 0
     Grass       = 1 shl 1

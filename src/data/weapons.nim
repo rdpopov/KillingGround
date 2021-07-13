@@ -1,3 +1,4 @@
+import drawable
 type DamageTypeEnum {.pure.} = enum # weapon damage types can be more or less a combination
     Slashing    = 1 shl 0
     Piercing    = 1 shl 1
